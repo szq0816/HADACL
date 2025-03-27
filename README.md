@@ -1,5 +1,5 @@
 
-PyTorch implementation for paper [Inter-View Structure Preservation Adversarial Contrastive Network for Incomplete Multi-view Clustering]
+PyTorch implementation for paper [Hierarchical Attention Fusion with Synergistic Adversarial Contrastive Learning for Incomplete Multi-View Clustering]
 
 
 ## Requirements
