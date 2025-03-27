@@ -1,0 +1,20 @@
+dataset: YoutubeFace50
+
+encoder_dim:
+  - [944, 1024, 1024, 1024, 128]
+  - [576, 1024, 1024, 1024, 128]
+
+n_classes: 50
+
+epochs: 210
+print_freq : 210
+batch_size: 4096
+momentum: 0.98
+temperature: 0.5
+alpha: 1
+beta: 0.01
+blr: 5.0e-4
+weight_decay: 0
+data_path: ./data/
+output_dir: ISP-ACN
+seed: 0
